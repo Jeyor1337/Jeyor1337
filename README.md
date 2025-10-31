@@ -1,10 +1,10 @@
-# Hi there 👋 I'm [Jeyor1337]
+# Hi there 👋 I'm Jeyor1337
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;Full-stack+developer;Open+source+enthusiast)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jeyor1337)](https://git.io/streak-stats)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeyor1337)
 
-I'm a passionate developer who loves building innovative solutions and contributing to open source. Currently focusing on [minecraft client] and exploring [web development].
+I'm a passionate developer who loves building innovative solutions and contributing to open source. Currently focusing on minecraft client and exploring web development.
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -23,6 +23,6 @@ I'm a passionate developer who loves building innovative solutions and contribut
 - [C/C++]
 
 ## 📫 How to Reach Me
-- **Email**: [savannapeterse880@gmail.com]
+- **Email**: savannapeterse880@gmail.com
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Jeyor1337.Jeyor1337)
